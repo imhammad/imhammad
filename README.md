@@ -1,3 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=120&section=header&text=Welcome%20to%20Hammad's%20Starbase%20%E2%9C%8D%EF%B8%8F&fontColor=00FFFF&fontSize=30&animation=twinkling"/>
+
+[![](https://visitcount.itsvg.in/api?id=imhammad&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # Hi, I'm Hammad! 
 Did you just land here? Welcome!!!<br><br>
 💻 Computer Science student sharing about my journey and learnings in tech!<br><br>
@@ -15,9 +19,7 @@ Did you just land here? Welcome!!!<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imhammad&theme=gruvbox_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imhammad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=120&section=header&text=Welcome%20to%20Hammad's%20Starbase%20%E2%9C%8D%EF%B8%8F&fontColor=00FFFF&fontSize=30&animation=twinkling"/>
 
 
 
