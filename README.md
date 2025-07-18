@@ -16,3 +16,14 @@ Did you just land here? Welcome!!!<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imhammad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1e1e1e&height=120&section=header&text=Welcome%20to%20Hammad's%20Starbase%20%E2%9C%8D%EF%B8%8F&fontColor=00FFFF&fontSize=30&animation=twinkling"/>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Greetings+Earthlings+%F0%9F%8C%8D;I+am+Hammad%2C+Code+Sentinel+%E2%9A%A1;Building+AI+Systems+from+the+Future+%F0%9F%94%AE;Monitoring+code+from+the+Alpha+Quadrant..." alt="Typing SVG" />
+</p>
+
+
+
